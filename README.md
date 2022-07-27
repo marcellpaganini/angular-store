@@ -48,6 +48,8 @@
 - Services    
 - Dependency Injection   
 - Event Handling   
+- Passing data to child components
+- Passing data to parent component
 
 ### Error messages for future reference  
 ✖ Error: Invalid Character (typing ng --version in the terminal)   
